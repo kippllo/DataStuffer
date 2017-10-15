@@ -1,7 +1,7 @@
 # DataStuffer
 This is a project used as a cookbook/tutorial for many programming languages.
 
-# What the Program Actually
+# What the Program Actually Does
 It's program that makes junk data. The size is based on user input. (Pretty Useless!)
 
 # Goal
